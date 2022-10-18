@@ -1,0 +1,122 @@
+[
+ {
+   "title": "BARGUNA",
+   "Upazila Name": "Bamna",
+   "Very Suitable": 7202,
+   "Suitable": 0,
+   "Moderately Suitable": 0,
+   "Marginally Suitable": 0,
+   "Not Suitable": 0,
+   "Total Area": 7202,
+   "Aman Zone": 1,
+   "id": 1
+ },
+ {
+   "title": "BARGUNA",
+   "Upazila Name": "Borguna",
+   "Very Suitable": 11092.3,
+   "Suitable": 10273,
+   "Moderately Suitable": 3911.6,
+   "Marginally Suitable": 0,
+   "Not Suitable": 0,
+   "Total Area": 25277,
+   "Aman Zone": 1,
+   "id": 2
+ },
+ {
+   "title": "BARGUNA",
+   "Upazila Name": "Betagi",
+   "Very Suitable": 11227.6,
+   "Suitable": 63.4,
+   "Moderately Suitable": 0,
+   "Marginally Suitable": 0,
+   "Not Suitable": 0,
+   "Total Area": 11291,
+   "Aman Zone": 1,
+   "id": 3
+ },
+ {
+   "title": "BARGUNA",
+   "Upazila Name": "Patharghata",
+   "Very Suitable": 7056.9,
+   "Suitable": 10668.5,
+   "Moderately Suitable": 26.2,
+   "Marginally Suitable": 1871.4,
+   "Not Suitable": 0,
+   "Total Area": 19623,
+   "Aman Zone": 1,
+   "id": 4
+ },
+ {
+   "title": "BARISAL",
+   "Upazila Name": "Babuganj",
+   "Very Suitable": 10387.1,
+   "Suitable": 0,
+   "Moderately Suitable": 437.9,
+   "Marginally Suitable": 0,
+   "Not Suitable": 0,
+   "Total Area": 10825,
+   "Aman Zone": 1,
+   "id": 5
+ },
+ {
+   "title": "BARISAL",
+   "Upazila Name": "Bakerganj",
+   "Very Suitable": 30175,
+   "Suitable": 66.9,
+   "Moderately Suitable": 1389.1,
+   "Marginally Suitable": 0,
+   "Not Suitable": 0,
+   "Total Area": 31631,
+   "Aman Zone": 1,
+   "id": 6
+ },
+ {
+   "title": "BARISAL",
+   "Upazila Name": "Banaripara",
+   "Very Suitable": 8143.1,
+   "Suitable": 182.1,
+   "Moderately Suitable": 437,
+   "Marginally Suitable": 262.2,
+   "Not Suitable": 1092.5,
+   "Total Area": 10117,
+   "Aman Zone": 1,
+   "id": 7
+ },
+ {
+   "title": "BARISAL",
+   "Upazila Name": "Gaurnadi",
+   "Very Suitable": 8462,
+   "Suitable": 158.2,
+   "Moderately Suitable": 322.9,
+   "Marginally Suitable": 1364.2,
+   "Not Suitable": 164.8,
+   "Total Area": 10472,
+   "Aman Zone": 1,
+   "id": 8
+ },
+ {
+   "title": "JHALAKATI",
+   "Upazila Name": "Jhalakati",
+   "Very Suitable": 15737,
+   "Suitable": 0,
+   "Moderately Suitable": 0,
+   "Marginally Suitable": 0,
+   "Not Suitable": 0,
+   "Total Area": 15737,
+   "Aman Zone": 1,
+   "id": 9
+ },
+ {
+   "title": "JHALAKATI",
+   "Upazila Name": "Kathalia",
+   "Very Suitable": 11940,
+   "Suitable": 0,
+   "Moderately Suitable": 0,
+   "Marginally Suitable": 0,
+   "Not Suitable": 0,
+   "Total Area": 11940,
+   "Aman Zone": 1,
+   "id": 10
+ }
+]
