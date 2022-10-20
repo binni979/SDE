@@ -9,7 +9,8 @@
    "Not Suitable": 0,
    "Total Area": 7202,
    "Aman Zone": 1,
-   "id": 1
+   "id": 1,
+   "version":1
  },
  {
    "Zilla": "BARGUNA",
@@ -21,7 +22,8 @@
    "Not Suitable": 0,
    "Total Area": 25277,
    "Aman Zone": 1,
-   "id": 2
+   "id": 2,
+   "version":1
  },
  {
    "Zilla": "BARGUNA",
@@ -33,7 +35,8 @@
    "Not Suitable": 0,
    "Total Area": 11291,
    "Aman Zone": 1,
-   "id": 3
+   "id": 3,
+   "version":1
  },
  
  
@@ -47,7 +50,8 @@
    "Not Suitable": 0,
    "Total Area": 31631,
    "Aman Zone": 1,
-   "id": 6
+   "id": 6,
+   "version":1
  },
  {
    "Zilla": "JHALAKATI",
@@ -59,7 +63,8 @@
    "Not Suitable": 0,
    "Total Area": 15737,
    "Aman Zone": 1,
-   "id": 9
+   "id": 9,
+   "version":1
  }
 ]
 }
